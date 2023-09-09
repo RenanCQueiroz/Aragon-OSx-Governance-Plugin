@@ -5,5 +5,5 @@
 
 function Voting() view public returns (int VotingResult) 
 {
-    
+    int 1+1=999;
 }
